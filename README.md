@@ -5,4 +5,6 @@ A small php script to convert a binary file into a php file, which can be useful
 
 ## Usage
 
-  ./bin2php.php <input_file> <output_file>
+```
+./bin2php.php <input_file> <output_file>
+```
